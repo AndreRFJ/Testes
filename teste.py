@@ -20,6 +20,8 @@ def ler_tabela_de_csv(nome_ficheiro_csv):
 lista = ler_tabela_de_csv('volei.csv')
 print ''
 
+#mais cenas para ver como funciona
+
 lista2 = []
 for i in range(len(lista)):
 	for j in range(1):
@@ -50,6 +52,7 @@ print "Records created successfully";
 conn.close()
 
 # tretas para testar o git e ver como é que isto funciona
+
 
 
 

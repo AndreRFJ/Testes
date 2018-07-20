@@ -49,7 +49,7 @@ conn.commit()
 print "Records created successfully";
 conn.close()
 
+# tretas para testar o git e ver como é que isto funciona
 
-#alteracao branch
 
 
